@@ -1,5 +1,5 @@
 import React from "react";
-import Links from "../data/Links";
+import Links from "./Links";
 
 
 
